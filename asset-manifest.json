@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/puneetsharma2791/email-service/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/puneetsharma2791/email-service/static/js/main.9d0757f4.chunk.js",
+    "main.js.map": "/puneetsharma2791/email-service/static/js/main.9d0757f4.chunk.js.map",
+    "runtime-main.js": "/puneetsharma2791/email-service/static/js/runtime-main.783937c5.js",
+    "runtime-main.js.map": "/puneetsharma2791/email-service/static/js/runtime-main.783937c5.js.map",
+    "static/js/2.55a86f0d.chunk.js": "/puneetsharma2791/email-service/static/js/2.55a86f0d.chunk.js",
+    "static/js/2.55a86f0d.chunk.js.map": "/puneetsharma2791/email-service/static/js/2.55a86f0d.chunk.js.map",
+    "static/js/3.97f24cfc.chunk.js": "/puneetsharma2791/email-service/static/js/3.97f24cfc.chunk.js",
+    "static/js/3.97f24cfc.chunk.js.map": "/puneetsharma2791/email-service/static/js/3.97f24cfc.chunk.js.map",
+    "index.html": "/puneetsharma2791/email-service/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/puneetsharma2791/email-service/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.55a86f0d.chunk.js.LICENSE.txt": "/puneetsharma2791/email-service/static/js/2.55a86f0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.783937c5.js",
+    "static/js/2.55a86f0d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9d0757f4.chunk.js"
+  ]
+}
